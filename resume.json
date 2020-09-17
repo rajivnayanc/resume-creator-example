@@ -1,0 +1,57 @@
+{
+    "name":"Rajiv Nayan Choubey | GULGUL",
+    "header":[
+        {
+            "title":"DOB",
+            "content": "2nd August 1998"
+        },
+        {
+            "title":"Contact",
+            "content": "+91-8960570512"
+        },
+        {
+            "title":"Email",
+            "content": "rajivnayanc@gmail.com"
+        },
+        {
+            "title":"Organisation",
+            "content": "IIIT Naya Raipur"
+        }
+    ],
+    "content":[
+        {
+            "title":"Experience",
+            "content": [
+                "Goldman Sachs",
+                "Campus Adda",
+                "Technovate 2020"
+            ]
+        },
+        {
+            "title":"Education",
+            "content": [
+                "B.Tech CSE, IIIT Naya Raipur",
+                "12th Class, Glenhill School",
+                "10th Class, Glenhill School"
+            ]
+        },
+        {
+            "title":"Publications",
+            "content": [
+                "Internet Traffic Classifier using 1D-CNN and Artificial Neural Network"
+            ]
+        },
+        {
+            "title":"Achievements",
+            "content": [
+                "SIH University Level Hackathon: Second Runner Up",
+                "10 SGPA in 3rd Semester",
+                "Runner Up in Website Making Competition",
+                "First Prize in Discus Throw: Annual Sports"
+            ]
+        }
+        
+    ]
+
+
+}
